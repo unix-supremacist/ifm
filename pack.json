@@ -1,0 +1,503 @@
+{
+	"name": "Infinite-Firmament",
+	"loader": "forge",
+	"version": "0.1",
+	"mcv": "1.7.10",
+	"hashgit": false,
+	"mods": [
+		{
+			"name": "AnimationAPI",
+			"type": "curseforge",
+			"projectid": "77191",
+			"side": "both"
+		},
+		{
+			"name": "Anti ID Conflict",
+			"type": "curseforge",
+			"projectid": "246288",
+			"side": "both"
+		},
+		{
+			"name": "Apple Core Unofficial",
+			"type": "modrinth",
+			"projectid": "c3I7Akgu",
+			"side": "both"
+		},
+		{
+			"name": "Applied Energistics 2: Fluid Crafting",
+			"type": "github",
+			"projectid": "GTNewHorizons/AE2FluidCraft-Rework",
+			"side": "both"
+		},
+		{
+			"name": "Applied Energistics 2 Unofficial",
+			"type": "github",
+			"projectid": "GTNewHorizons/Applied-Energistics-2-Unofficial",
+			"side": "both"
+		},
+		{
+			"name": "ArchaicFix",
+			"type": "curseforge",
+			"projectid": "677782",
+			"side": "both"
+		},
+		{
+			"name": "Ars Magica 2.5",
+			"type": "modrinth",
+			"projectid": "4NBV2LS4",
+			"side": "both"
+		},
+		{
+			"name": "ASM Fixes",
+			"type": "curseforge",
+			"projectid": "244171",
+			"side": "both"
+		},
+		{
+			"name": "Audino",
+			"type": "modrinth",
+			"projectid": "9VVoLur5",
+			"side": "both"
+		},
+		{
+			"name": "Avaritia",
+			"type": "curseforge",
+			"projectid": "233785",
+			"side": "both"
+		},
+		{
+			"name": "Avaritiaddons",
+			"type": "curseforge",
+			"projectid": "248873",
+			"side": "both"
+		},
+		{
+			"name": "Baubles Expanded",
+			"type": "modrinth",
+			"projectid": "pAqS7wsC",
+			"side": "both"
+		},
+		{
+			"name": "BetterFPS",
+			"type": "curseforge",
+			"projectid": "229876",
+			"side": "both"
+		},
+		{
+			"name": "Blood Magic: Alchemical Wizardry",
+			"type": "github",
+			"projectid": "GTNewHorizons/BloodMagic",
+			"side": "both"
+		},
+		{
+			"name": "Botania",
+			"type": "github",
+			"projectid": "GTNewHorizons/Botania",
+			"side": "both"
+		},
+		{
+			"name": "Brandon's Core",
+			"type": "github",
+			"projectid": "GTNewHorizons/BrandonsCore",
+			"side": "both"
+		},
+		{
+			"name": "BugTorch",
+			"type": "modrinth",
+			"projectid": "6su8A6OH",
+			"side": "both"
+		},
+		{
+			"name": "Buildcraft Core",
+			"type": "modrinth",
+			"projectid": "2YsMgHdw",
+			"side": "both"
+		},
+		{
+			"name": "Buildcraft Energy",
+			"type": "modrinth",
+			"projectid": "dIwAzrx4",
+			"side": "both"
+		},
+		{
+			"name": "Buildcraft Builders",
+			"type": "modrinth",
+			"projectid": "UU9bGx2s",
+			"side": "both"
+		},
+		{
+			"name": "BuildCraft Factory",
+			"type": "modrinth",
+			"projectid": "6ZxBsmnh",
+			"side": "both"
+		},
+		{
+			"name": "BuildCraft Transport",
+			"type": "modrinth",
+			"projectid": "qhId80ii",
+			"side": "both"
+		},
+		{
+			"name": "BuildCraft Silicon",
+			"type": "modrinth",
+			"projectid": "ZV2Zwqln",
+			"side": "both"
+		},
+		{
+			"name": "BuildCraft Robotics",
+			"type": "modrinth",
+			"projectid": "YZGJU27K",
+			"side": "both"
+		},
+		{
+			"name": "Buildcraft Compatiblity",
+			"type": "modrinth",
+			"projectid": "yp1R2apI",
+			"side": "both"
+		},
+		{
+			"name": "Carpenter's Blocks",
+			"type": "url",
+			"projectid": "https://github.com/GTNewHorizons/CarpentersBlocks/releases/download/3.3.8.2-GTNH/CarpentersBlocks-1.7.10-3.3.8.2-GTNH.jar",
+			"side": "both"
+		},
+		{
+			"name": "Chisel",
+			"type": "curseforge",
+			"projectid": "235279",
+			"side": "both"
+		},
+		{
+			"name": "Chunk Purge",
+			"type": "curseforge",
+			"projectid": "237027",
+			"side": "both"
+		},
+		{
+			"name": "CodeChickenCore",
+			"type": "modrinth",
+			"projectid": "qMOdaUOs",
+			"side": "both"
+		},
+		{
+			"name": "CodeChickenLib",
+			"type": "modrinth",
+			"projectid": "oANLGIut",
+			"side": "both",
+			"destination": "mods/1.7.10/"
+		},
+		{
+			"name": "CoFH Core",
+			"type": "curseforge",
+			"projectid": "69162",
+			"side": "both"
+		},
+		{
+			"name": "CoFH Lib",
+			"type": "curseforge",
+			"projectid": "220333",
+			"side": "both"
+		},
+		{
+			"name": "Controlling",
+			"type": "url",
+			"projectid": "http://jenkins.usrv.eu:8081/nexus/content/groups/public/com/github/GTNewHorizons/Controlling/1.0.0.4/Controlling-1.0.0.4.jar",
+			"side": "both"
+		},
+		{
+			"name": "Core Tweaks",
+			"type": "github",
+			"projectid": "makamys/CoreTweaks",
+			"side": "both"
+		},
+		{
+			"name": "Custom Main Menu",
+			"type": "url",
+			"projectid": "http://jenkins.usrv.eu:8081/nexus/content/groups/public/com/github/GTNewHorizons/Custom-Main-Menu/1.9.4/Custom-Main-Menu-1.9.4.jar",
+			"side": "both"
+		},
+		{
+			"name": "D-Mod",
+			"type": "github",
+			"projectid": "makamys/DMod",
+			"side": "both"
+		},
+		{
+			"name": "Draconic Evolution",
+			"type": "github",
+			"projectid": "GTNewHorizons/Draconic-Evolution",
+			"side": "both"
+		},
+		{
+			"name": "DTools",
+			"type": "github",
+			"projectid": "makamys/DTools",
+			"side": "both"
+		},
+		{
+			"name": "Electrical Age - jrddunbr's edition",
+			"type": "modrinth",
+			"projectid": "u2Kd1AkA",
+			"side": "both"
+		},
+		{
+			"name": "Ender Core",
+			"type": "github",
+			"projectid": "GTNewHorizons/EnderCore",
+			"side": "both"
+		},
+		{
+			"name": "Ender IO Unofficial",
+			"type": "github",
+			"projectid": "GTNewHorizons/EnderIO",
+			"side": "both"
+		},
+		{
+			"name": "Ender Zoo",
+			"type": "github",
+			"projectid": "GTNewHorizons/EnderZoo",
+			"side": "both"
+		},
+		{
+			"name": "Ender Storage",
+			"type": "github",
+			"projectid": "GTNewHorizons/EnderStorage",
+			"side": "both"
+		},
+		{
+			"name": "EnderTech",
+			"type": "curseforge",
+			"projectid": "223428",
+			"side": "both"
+		},
+		{
+			"name": "Et Futurum Requiem",
+			"type": "modrinth",
+			"projectid": "o56psTwz",
+			"side": "both"
+		},
+		{
+			"name": "FalsePatternLib",
+			"type": "modrinth",
+			"projectid": "eGLBEILf",
+			"side": "both"
+		},
+		{
+			"name": "Flying Cullers",
+			"type": "modrinth",
+			"projectid": "v1s0VXQR",
+			"side": "client"
+		},
+		{
+			"name": "FoamFix",
+			"type": "modrinth",
+			"projectid": "jupr7Bf5",
+			"side": "both"
+		},
+		{
+			"name": "Forestry",
+			"type": "url",
+			"projectid": "http://jenkins.usrv.eu:8081/nexus/content/groups/public/com/github/GTNewHorizons/ForestryMC/4.6.10/ForestryMC-4.6.10.jar",
+			"side": "both"
+		},
+		{
+			"name": "Forge Multipart",
+			"type": "url",
+			"projectid": "http://jenkins.usrv.eu:8081/nexus/content/groups/public/com/github/GTNewHorizons/ForgeMultipart/1.3.4/ForgeMultipart-1.3.4.jar",
+			"side": "both",
+			"destination": "mods/1.7.10/"
+		},
+		{
+			"name": "Gregtech 6",
+			"type": "url",
+			"projectid": "https://gregtech.overminddl1.com/com/gregoriust/gregtech/gregtech_1.7.10/6.16.01/gregtech_1.7.10-6.16.01.jar",
+			"side": "both"
+		},
+		{
+			"name": "GTNH Lib",
+			"type": "modrinth",
+			"projectid": "vTvnv7qp",
+			"side": "both"
+		},
+		{
+			"name": "HodgePodge",
+			"type": "modrinth",
+			"projectid": "6QQe8Ldy",
+			"side": "both"
+		},
+		{
+			"name": "Iguana's Tinkers Tweaks",
+			"type": "github",
+			"projectid": "GTNewHorizons/IguanaTweaksTConstruct",
+			"side": "both"
+		},
+		{
+			"name": "Inventory Tweaks",
+			"type": "url",
+			"projectid": "http://jenkins.usrv.eu:8081/nexus/content/groups/public/com/github/GTNewHorizons/inventory-tweaks/1.5.16/inventory-tweaks-1.5.16.jar",
+			"side": "both"
+		},
+		{
+			"name": "It's the Little Things",
+			"type": "url",
+			"projectid": "http://jenkins.usrv.eu:8081/nexus/content/groups/public/com/github/GTNewHorizons/inventory-tweaks/1.5.16/inventory-tweaks-1.5.16.jar",
+			"side": "both"
+		},
+		{
+			"name": "Logistics Pipes",
+			"type": "github",
+			"projectid": "GTNewHorizons/LogisticsPipes",
+			"side": "both"
+		},
+		{
+			"name": "Magneticraft",
+			"type": "curseforge",
+			"projectid": "224808",
+			"side": "both"
+		},
+		{
+			"name": "Mantle",
+			"type": "github",
+			"projectid": "GTNewHorizons/Mantle",
+			"side": "both"
+		},
+		{
+			"name": "McJtyLib",
+			"type": "modrinth",
+			"projectid": "1Zu0uTEE",
+			"side": "both"
+		},
+		{
+			"name": "Mekanism Community Edition: Core",
+			"type": "modrinth",
+			"projectid": "toGHjw6t",
+			"side": "both"
+		},
+		{
+			"name": "Neodymium",
+			"type": "github",
+			"projectid": "makamys/Neodymium",
+			"side": "client"
+		},
+		{
+			"name": "Not Enough Pets",
+			"type": "modrinth",
+			"projectid": "flsPN5I7",
+			"side": "both"
+		},
+		{
+			"name": "Not Enough Items Unofficial",
+			"type": "modrinth",
+			"projectid": "iNPc3Onu",
+			"side": "both"
+		},
+		{
+			"name": "Not Fine",
+			"type": "github",
+			"projectid": "jss2a98aj/NotFine",
+			"side": "client"
+		},
+		{
+			"name": "Redstone Armory",
+			"type": "curseforge",
+			"projectid": "229339",
+			"side": "both"
+		},
+		{
+			"name": "Redstone Arsenal",
+			"type": "curseforge",
+			"projectid": "70631",
+			"side": "both"
+		},
+		{
+			"name": "RFDrills",
+			"type": "modrinth",
+			"projectid": "saBU82Nh",
+			"side": "both"
+		},
+		{
+			"name": "RFTools",
+			"type": "modrinth",
+			"projectid": "FwyGRcXc",
+			"side": "both"
+		},
+		{
+			"name": "Simply Jetpacks",
+			"type": "curseforge",
+			"projectid": "79325",
+			"side": "both"
+		},
+		{
+			"name": "Spice Of Life",
+			"type": "modrinth",
+			"projectid": "AbPBTO0Y",
+			"side": "both"
+		},
+		{
+			"name": "Steve's Carts 2",
+			"type": "github",
+			"projectid": "GTNewHorizons/SC2",
+			"side": "both"
+		},
+		{
+			"name": "Steve's Factory Manager",
+			"type": "github",
+			"projectid": "GTNewHorizons/Steve-s-Factory-Manager",
+			"side": "both"
+		},
+		{
+			"name": "Tinker's Construct",
+			"type": "github",
+			"projectid": "GTNewHorizons/TinkersConstruct",
+			"side": "both"
+		},
+		{
+			"name": "Thermal Dynamics",
+			"type": "curseforge",
+			"projectid": "227443",
+			"side": "both"
+		},
+		{
+			"name": "Thermal Expansion",
+			"type": "curseforge",
+			"projectid": "69163",
+			"side": "both"
+		},
+		{
+			"name": "Thermal Foundation",
+			"type": "curseforge",
+			"projectid": "222880",
+			"side": "both"
+		},
+		{
+			"name": "TX Loader",
+			"type": "modrinth",
+			"projectid": "eh8us8FY",
+			"side": "both"
+		},
+		{
+			"name": "Universal Singularities",
+			"type": "curseforge",
+			"projectid": "252200",
+			"side": "both"
+		},
+		{
+			"name": "Village Names",
+			"type": "modrinth",
+			"projectid": "ea7aacaC",
+			"side": "both"
+		},
+		{
+			"name": "Wanion Library",
+			"type": "curseforge",
+			"projectid": "253043",
+			"side": "both"
+		},
+		{
+			"name": "What am i Looking At",
+			"type": "github",
+			"projectid": "GTNewHorizons/waila",
+			"side": "both"
+		}
+	]
+}
