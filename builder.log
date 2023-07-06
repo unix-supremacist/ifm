@@ -2,22 +2,28 @@ builder: modrinth api request for projectid cUtsYbG5 and version forge: 1.7.10
 builder: tmp/mcinstanceloader-2.6.jar exists not redownloading
 builder: modrinth api request for projectid ghjoiQAl and version forge: 1.7.10
 builder: tmp/+unimixins-all-1.7.10-0.1.11.jar exists not redownloading
+builder: github api request for repoid GTNewHorizons/AdventureBackpack2
+builder: curseforge api request for projectid 233019 and version forge: 1.7.10
+builder: curseforge fileid determined for project 233019 as 2524666
 builder: curseforge api request for projectid 77191 and version forge: 1.7.10
 builder: curseforge fileid determined for project 77191 as 2221721
 builder: curseforge api request for projectid 246288 and version forge: 1.7.10
 builder: curseforge fileid determined for project 246288 as 2308279
+builder: github api request for repoid LegacyModdingMC/AntiqueAtlas
 builder: modrinth api request for projectid c3I7Akgu and version forge: 1.7.10
 builder: modrinth versionid determined for project c3I7Akgu as 953OPgsW
 builder: github api request for repoid GTNewHorizons/AE2FluidCraft-Rework
 builder: github api request for repoid GTNewHorizons/Applied-Energistics-2-Unofficial
 builder: curseforge api request for projectid 677782 and version forge: 1.7.10
-builder: curseforge fileid determined for project 677782 as 4405338
+builder: curseforge fileid determined for project 677782 as 4626409
 builder: modrinth api request for projectid 4NBV2LS4 and version forge: 1.7.10
 builder: modrinth versionid determined for project 4NBV2LS4 as lCXOIStS
 builder: curseforge api request for projectid 244171 and version forge: 1.7.10
 builder: curseforge fileid determined for project 244171 as 2294974
 builder: modrinth api request for projectid 9VVoLur5 and version forge: 1.7.10
 builder: modrinth versionid determined for project 9VVoLur5 as IWieTo3r
+builder: curseforge api request for projectid 222153 and version forge: 1.7.10
+builder: curseforge fileid determined for project 222153 as 2285272
 builder: curseforge api request for projectid 233785 and version forge: 1.7.10
 builder: curseforge fileid determined for project 233785 as 2519595
 builder: curseforge api request for projectid 248873 and version forge: 1.7.10
@@ -26,6 +32,7 @@ builder: modrinth api request for projectid pAqS7wsC and version forge: 1.7.10
 builder: modrinth versionid determined for project pAqS7wsC as uVJG9ptZ
 builder: curseforge api request for projectid 229876 and version forge: 1.7.10
 builder: curseforge fileid determined for project 229876 as 2244002
+builder: github api request for repoid GTNewHorizons/BloodArsenal
 builder: github api request for repoid GTNewHorizons/BloodMagic
 builder: github api request for repoid GTNewHorizons/Botania
 builder: github api request for repoid GTNewHorizons/BrandonsCore
@@ -47,6 +54,7 @@ builder: modrinth api request for projectid YZGJU27K and version forge: 1.7.10
 builder: modrinth versionid determined for project YZGJU27K as XKDKPrha
 builder: modrinth api request for projectid yp1R2apI and version forge: 1.7.10
 builder: modrinth versionid determined for project yp1R2apI as A7Ic8NJr
+builder: github api request for repoid GTNewHorizons/CarpentersBlocks
 builder: curseforge api request for projectid 235279 and version forge: 1.7.10
 builder: curseforge fileid determined for project 235279 as 2287442
 builder: curseforge api request for projectid 237027 and version forge: 1.7.10
@@ -60,10 +68,16 @@ builder: curseforge api request for projectid 69162 and version forge: 1.7.10
 builder: curseforge fileid determined for project 69162 as 2388750
 builder: curseforge api request for projectid 220333 and version forge: 1.7.10
 builder: curseforge fileid determined for project 220333 as 2388747
+builder: github api request for repoid GTNewHorizons/Controlling
 builder: github api request for repoid makamys/CoreTweaks
+builder: github api request for repoid GTNewHorizons/CraftTweaker
+builder: github api request for repoid GTNewHorizons/Custom-Main-Menu
+builder: github api request for repoid GTNewHorizons/DefaultWorldGenerator
 builder: github api request for repoid makamys/DMod
 builder: github api request for repoid GTNewHorizons/Draconic-Evolution
 builder: github api request for repoid makamys/DTools
+builder: curseforge api request for projectid 230103 and version forge: 1.7.10
+builder: curseforge fileid determined for project 230103 as 2256966
 builder: modrinth api request for projectid u2Kd1AkA and version forge: 1.7.10
 builder: modrinth versionid determined for project u2Kd1AkA as Oo9Pdayh
 builder: github api request for repoid GTNewHorizons/EnderCore
@@ -80,26 +94,53 @@ builder: modrinth api request for projectid v1s0VXQR and version forge: 1.7.10
 builder: modrinth versionid determined for project v1s0VXQR as fQNjMIes
 builder: modrinth api request for projectid jupr7Bf5 and version forge: 1.7.10
 builder: modrinth versionid determined for project jupr7Bf5 as H4Y7YwTd
-builder: url destination hard overwrote for project http://jenkins.usrv.eu:8081/nexus/content/groups/public/com/github/GTNewHorizons/ForgeMultipart/1.3.4/ForgeMultipart-1.3.4.jar to mods/1.7.10/
+builder: github api request for repoid GTNewHorizons/ForbiddenMagic
+builder: github api request for repoid GTNewHorizons/ForestryMC
+builder: github api request for repoid GTNewHorizons/ForgeMultipart
+builder: github destination hard overwrote for project GTNewHorizons/ForgeMultipart to mods/1.7.10/
+builder: curseforge api request for projectid 313427 and version forge: 1.7.10
+builder: curseforge fileid determined for project 313427 as 2786664
+builder: github api request for repoid GTNewHorizons/Gadomancy
 builder: modrinth api request for projectid vTvnv7qp and version forge: 1.7.10
 builder: modrinth versionid determined for project vTvnv7qp as Xn4O8qI1
+builder: github api request for repoid GTNewHorizons/Hardcore-Ender-Expansion
 builder: modrinth api request for projectid 6QQe8Ldy and version forge: 1.7.10
 builder: modrinth versionid determined for project 6QQe8Ldy as d0SsUeoz
+builder: github api request for repoid GTNewHorizons/Infernal-Mobs
 builder: github api request for repoid GTNewHorizons/IguanaTweaksTConstruct
+builder: github api request for repoid GTNewHorizons/INpureCore
+builder: github api request for repoid GTNewHorizons/inventory-tweaks
+builder: github api request for repoid GTNewHorizons/itlt
+builder: modrinth api request for projectid yNnilXec and version forge: 1.7.10
+builder: modrinth versionid determined for project yNnilXec as qoQVTXr9
 builder: github api request for repoid GTNewHorizons/LogisticsPipes
 builder: curseforge api request for projectid 224808 and version forge: 1.7.10
 builder: curseforge fileid determined for project 224808 as 2276268
 builder: github api request for repoid GTNewHorizons/Mantle
+builder: github api request for repoid KryptonCaptain/MagicBees
 builder: modrinth api request for projectid 1Zu0uTEE and version forge: 1.7.10
 builder: modrinth versionid determined for project 1Zu0uTEE as EIS07pmm
 builder: modrinth api request for projectid toGHjw6t and version forge: 1.7.10
 builder: modrinth versionid determined for project toGHjw6t as P8to0a7y
+builder: modrinth api request for projectid WQC4Wtzw and version forge: 1.7.10
+builder: modrinth versionid determined for project WQC4Wtzw as loV1tjaN
+builder: github api request for repoid embeddedt/Mooz
+builder: github api request for repoid GTNewHorizons/MouseTweaks
 builder: github api request for repoid makamys/Neodymium
 builder: modrinth api request for projectid flsPN5I7 and version forge: 1.7.10
 builder: modrinth versionid determined for project flsPN5I7 as Wukw2SWV
 builder: modrinth api request for projectid iNPc3Onu and version forge: 1.7.10
-builder: modrinth versionid determined for project iNPc3Onu as Vj9rAv0Z
+builder: modrinth versionid determined for project iNPc3Onu as Gg2pPq6j
+builder: github api request for repoid GTNewHorizons/NotEnoughEnergistics
+builder: github api request for repoid GTNewHorizons/NEI-Integration
+builder: github api request for repoid GTNewHorizons/neiaddons
+builder: github api request for repoid LegacyModdingMC/NotEnoughVerbosity
 builder: github api request for repoid jss2a98aj/NotFine
+builder: github api request for repoid GTNewHorizons/Nutrition
+builder: github api request for repoid GTNewHorizons/OpenBlocks
+builder: github api request for repoid GTNewHorizons/OpenComputers
+builder: github api request for repoid GTNewHorizons/OpenModsLib
+builder: github api request for repoid GTNewHorizons/OpenModularTurrets
 builder: curseforge api request for projectid 229339 and version forge: 1.7.10
 builder: curseforge fileid determined for project 229339 as 2263890
 builder: curseforge api request for projectid 70631 and version forge: 1.7.10
@@ -108,13 +149,40 @@ builder: modrinth api request for projectid saBU82Nh and version forge: 1.7.10
 builder: modrinth versionid determined for project saBU82Nh as ap92MLy1
 builder: modrinth api request for projectid FwyGRcXc and version forge: 1.7.10
 builder: modrinth versionid determined for project FwyGRcXc as yh0gvwT5
+builder: github api request for repoid LegacyModdingMC/SignPosts
 builder: curseforge api request for projectid 79325 and version forge: 1.7.10
 builder: curseforge fileid determined for project 79325 as 2267185
+builder: github api request for repoid GTNewHorizons/SpecialAI
+builder: github api request for repoid GTNewHorizons/SpecialMobs
 builder: modrinth api request for projectid AbPBTO0Y and version forge: 1.7.10
 builder: modrinth versionid determined for project AbPBTO0Y as 1HdWuUjI
+builder: curseforge api request for projectid 226115 and version forge: 1.7.10
+builder: curseforge fileid determined for project 226115 as 2233504
+builder: github api request for repoid GTNewHorizons/StevesAddons
 builder: github api request for repoid GTNewHorizons/SC2
 builder: github api request for repoid GTNewHorizons/Steve-s-Factory-Manager
+builder: modrinth api request for projectid vwTF02wB and version forge: 1.7.10
+builder: modrinth versionid determined for project vwTF02wB as 9C4GXwu7
+builder: github api request for repoid GTNewHorizons/Tainted-Magic
+builder: modrinth api request for projectid cKitwCSu and version forge: 1.7.10
+builder: modrinth versionid determined for project cKitwCSu as uxSWLWki
 builder: github api request for repoid GTNewHorizons/TinkersConstruct
+builder: github api request for repoid GTNewHorizons/TinkersMechworks
+builder: curseforge api request for projectid 223628 and version forge: 1.7.10
+builder: curseforge fileid determined for project 223628 as 2227552
+builder: modrinth api request for projectid J0HWRWq5 and version forge: 1.7.10
+builder: modrinth versionid determined for project J0HWRWq5 as Dcp2wjNO
+builder: curseforge api request for projectid 221897 and version forge: 1.7.10
+builder: curseforge fileid determined for project 221897 as 2261794
+builder: github api request for repoid GTNewHorizons/ThaumcraftMobAspects
+builder: github api request for repoid GTNewHorizons/TCNodeTracker
+builder: github api request for repoid KryptonCaptain/ThaumicBases
+builder: github api request for repoid GTNewHorizons/ThaumicEnergistics
+builder: github api request for repoid GTNewHorizons/Thaumic_Exploration
+builder: modrinth api request for projectid PCEjYHWr and version forge: 1.7.10
+builder: modrinth versionid determined for project PCEjYHWr as pmFrNllU
+builder: github api request for repoid GTNewHorizons/ThaumicInventoryScanning
+builder: github api request for repoid KryptonCaptain/ThaumicTinkerer
 builder: curseforge api request for projectid 227443 and version forge: 1.7.10
 builder: curseforge fileid determined for project 227443 as 2388756
 builder: curseforge api request for projectid 69163 and version forge: 1.7.10
@@ -123,13 +191,26 @@ builder: curseforge api request for projectid 222880 and version forge: 1.7.10
 builder: curseforge fileid determined for project 222880 as 2388752
 builder: modrinth api request for projectid eh8us8FY and version forge: 1.7.10
 builder: modrinth versionid determined for project eh8us8FY as k2ramWD3
+builder: github api request for repoid GTNewHorizons/twilightforest
 builder: curseforge api request for projectid 252200 and version forge: 1.7.10
 builder: curseforge fileid determined for project 252200 as 2350157
 builder: modrinth api request for projectid ea7aacaC and version forge: 1.7.10
 builder: modrinth versionid determined for project ea7aacaC as LLHAJC3x
 builder: curseforge api request for projectid 253043 and version forge: 1.7.10
 builder: curseforge fileid determined for project 253043 as 2430662
+builder: github api request for repoid GTNewHorizons/WarpTheory
+builder: curseforge api request for projectid 69673 and version forge: 1.7.10
+builder: curseforge fileid determined for project 69673 as 2234410
+builder: curseforge api request for projectid 253015 and version forge: 1.7.10
+builder: curseforge fileid determined for project 253015 as 2340610
+builder: github api request for repoid GTNewHorizons/WitcheryExtras
 builder: github api request for repoid GTNewHorizons/waila
+builder: github api request for repoid GTNewHorizons/WailaHarvestability
+builder: github api request for repoid GTNewHorizons/WAILAPlugins
+builder: github api request for repoid GTNewHorizons/WAWLA
+builder: github api request for repoid GTNewHorizons/WirelessCraftingTerminal
+builder: github api request for repoid GTNewHorizons/WirelessRedstone-CBE
+builder: curseforge api request for projectid 233019 and version forge: 1.7.10
 builder: curseforge api request for projectid 77191 and version forge: 1.7.10
 builder: curseforge api request for projectid 246288 and version forge: 1.7.10
 builder: modrinth api request for projectid c3I7Akgu and version forge: 1.7.10
@@ -137,6 +218,7 @@ builder: curseforge api request for projectid 677782 and version forge: 1.7.10
 builder: modrinth api request for projectid 4NBV2LS4 and version forge: 1.7.10
 builder: curseforge api request for projectid 244171 and version forge: 1.7.10
 builder: modrinth api request for projectid 9VVoLur5 and version forge: 1.7.10
+builder: curseforge api request for projectid 222153 and version forge: 1.7.10
 builder: curseforge api request for projectid 233785 and version forge: 1.7.10
 builder: curseforge api request for projectid 248873 and version forge: 1.7.10
 builder: modrinth api request for projectid pAqS7wsC and version forge: 1.7.10
@@ -157,18 +239,21 @@ builder: modrinth api request for projectid oANLGIut and version forge: 1.7.10
 builder: url destination hard overwrote for project https://cdn.modrinth.com/data/oANLGIut/versions/7rlH2gFw/CodeChickenLib-1.1.8.jar to mods/1.7.10/
 builder: curseforge api request for projectid 69162 and version forge: 1.7.10
 builder: curseforge api request for projectid 220333 and version forge: 1.7.10
+builder: curseforge api request for projectid 230103 and version forge: 1.7.10
 builder: modrinth api request for projectid u2Kd1AkA and version forge: 1.7.10
 builder: curseforge api request for projectid 223428 and version forge: 1.7.10
 builder: modrinth api request for projectid o56psTwz and version forge: 1.7.10
 builder: modrinth api request for projectid eGLBEILf and version forge: 1.7.10
 builder: modrinth api request for projectid v1s0VXQR and version forge: 1.7.10
 builder: modrinth api request for projectid jupr7Bf5 and version forge: 1.7.10
-builder: url destination hard overwrote for project http://jenkins.usrv.eu:8081/nexus/content/groups/public/com/github/GTNewHorizons/ForgeMultipart/1.3.4/ForgeMultipart-1.3.4.jar to mods/1.7.10/
+builder: curseforge api request for projectid 313427 and version forge: 1.7.10
 builder: modrinth api request for projectid vTvnv7qp and version forge: 1.7.10
 builder: modrinth api request for projectid 6QQe8Ldy and version forge: 1.7.10
+builder: modrinth api request for projectid yNnilXec and version forge: 1.7.10
 builder: curseforge api request for projectid 224808 and version forge: 1.7.10
 builder: modrinth api request for projectid 1Zu0uTEE and version forge: 1.7.10
 builder: modrinth api request for projectid toGHjw6t and version forge: 1.7.10
+builder: modrinth api request for projectid WQC4Wtzw and version forge: 1.7.10
 builder: modrinth api request for projectid flsPN5I7 and version forge: 1.7.10
 builder: modrinth api request for projectid iNPc3Onu and version forge: 1.7.10
 builder: curseforge api request for projectid 229339 and version forge: 1.7.10
@@ -177,6 +262,13 @@ builder: modrinth api request for projectid saBU82Nh and version forge: 1.7.10
 builder: modrinth api request for projectid FwyGRcXc and version forge: 1.7.10
 builder: curseforge api request for projectid 79325 and version forge: 1.7.10
 builder: modrinth api request for projectid AbPBTO0Y and version forge: 1.7.10
+builder: curseforge api request for projectid 226115 and version forge: 1.7.10
+builder: modrinth api request for projectid vwTF02wB and version forge: 1.7.10
+builder: modrinth api request for projectid cKitwCSu and version forge: 1.7.10
+builder: curseforge api request for projectid 223628 and version forge: 1.7.10
+builder: modrinth api request for projectid J0HWRWq5 and version forge: 1.7.10
+builder: curseforge api request for projectid 221897 and version forge: 1.7.10
+builder: modrinth api request for projectid PCEjYHWr and version forge: 1.7.10
 builder: curseforge api request for projectid 227443 and version forge: 1.7.10
 builder: curseforge api request for projectid 69163 and version forge: 1.7.10
 builder: curseforge api request for projectid 222880 and version forge: 1.7.10
@@ -184,6 +276,8 @@ builder: modrinth api request for projectid eh8us8FY and version forge: 1.7.10
 builder: curseforge api request for projectid 252200 and version forge: 1.7.10
 builder: modrinth api request for projectid ea7aacaC and version forge: 1.7.10
 builder: curseforge api request for projectid 253043 and version forge: 1.7.10
+builder: curseforge api request for projectid 69673 and version forge: 1.7.10
+builder: curseforge api request for projectid 253015 and version forge: 1.7.10
 builder: tmp/forge-1.7.10-10.13.4.1614-1.7.10-universal.jar exists not redownloading
 builder: github api request for repoid GTNewHorizons/lwjgl3ify
 builder: tmp/lwjgl3ify-1.4.0.jar exists not redownloading

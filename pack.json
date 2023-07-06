@@ -6,6 +6,18 @@
 	"hashgit": false,
 	"mods": [
 		{
+			"name": "Adventure Backpack",
+			"type": "github",
+			"projectid": "GTNewHorizons/AdventureBackpack2",
+			"side": "both"
+		},
+		{
+			"name": "AI Improvements",
+			"type": "curseforge",
+			"projectid": "233019",
+			"side": "both"
+		},
+		{
 			"name": "AnimationAPI",
 			"type": "curseforge",
 			"projectid": "77191",
@@ -15,6 +27,12 @@
 			"name": "Anti ID Conflict",
 			"type": "curseforge",
 			"projectid": "246288",
+			"side": "both"
+		},
+		{
+			"name": "Antique Atlas",
+			"type": "github",
+			"projectid": "LegacyModdingMC/AntiqueAtlas",
 			"side": "both"
 		},
 		{
@@ -60,6 +78,12 @@
 			"side": "both"
 		},
 		{
+			"name": "Automagy",
+			"type": "curseforge",
+			"projectid": "222153",
+			"side": "both"
+		},
+		{
 			"name": "Avaritia",
 			"type": "curseforge",
 			"projectid": "233785",
@@ -81,6 +105,12 @@
 			"name": "BetterFPS",
 			"type": "curseforge",
 			"projectid": "229876",
+			"side": "both"
+		},
+		{
+			"name": "Blood Arsenal",
+			"type": "github",
+			"projectid": "GTNewHorizons/BloodArsenal",
 			"side": "both"
 		},
 		{
@@ -157,8 +187,8 @@
 		},
 		{
 			"name": "Carpenter's Blocks",
-			"type": "url",
-			"projectid": "https://github.com/GTNewHorizons/CarpentersBlocks/releases/download/3.3.8.2-GTNH/CarpentersBlocks-1.7.10-3.3.8.2-GTNH.jar",
+			"type": "github",
+			"projectid": "GTNewHorizons/CarpentersBlocks",
 			"side": "both"
 		},
 		{
@@ -200,8 +230,8 @@
 		},
 		{
 			"name": "Controlling",
-			"type": "url",
-			"projectid": "http://jenkins.usrv.eu:8081/nexus/content/groups/public/com/github/GTNewHorizons/Controlling/1.0.0.4/Controlling-1.0.0.4.jar",
+			"type": "github",
+			"projectid": "GTNewHorizons/Controlling",
 			"side": "both"
 		},
 		{
@@ -211,9 +241,21 @@
 			"side": "both"
 		},
 		{
+			"name": "CraftTweaker",
+			"type": "github",
+			"projectid": "GTNewHorizons/CraftTweaker",
+			"side": "both"
+		},
+		{
 			"name": "Custom Main Menu",
-			"type": "url",
-			"projectid": "http://jenkins.usrv.eu:8081/nexus/content/groups/public/com/github/GTNewHorizons/Custom-Main-Menu/1.9.4/Custom-Main-Menu-1.9.4.jar",
+			"type": "github",
+			"projectid": "GTNewHorizons/Custom-Main-Menu",
+			"side": "both"
+		},
+		{
+			"name": "Default World Generator",
+			"type": "github",
+			"projectid": "GTNewHorizons/DefaultWorldGenerator",
 			"side": "both"
 		},
 		{
@@ -232,6 +274,12 @@
 			"name": "DTools",
 			"type": "github",
 			"projectid": "makamys/DTools",
+			"side": "both"
+		},
+		{
+			"name": "Dummy Core",
+			"type": "curseforge",
+			"projectid": "230103",
 			"side": "both"
 		},
 		{
@@ -295,17 +343,35 @@
 			"side": "both"
 		},
 		{
+			"name": "Forbidden Magic",
+			"type": "github",
+			"projectid": "GTNewHorizons/ForbiddenMagic",
+			"side": "both"
+		},
+		{
 			"name": "Forestry",
-			"type": "url",
-			"projectid": "http://jenkins.usrv.eu:8081/nexus/content/groups/public/com/github/GTNewHorizons/ForestryMC/4.6.10/ForestryMC-4.6.10.jar",
+			"type": "github",
+			"projectid": "GTNewHorizons/ForestryMC",
 			"side": "both"
 		},
 		{
 			"name": "Forge Multipart",
-			"type": "url",
-			"projectid": "http://jenkins.usrv.eu:8081/nexus/content/groups/public/com/github/GTNewHorizons/ForgeMultipart/1.3.4/ForgeMultipart-1.3.4.jar",
+			"type": "github",
+			"projectid": "GTNewHorizons/ForgeMultipart",
 			"side": "both",
 			"destination": "mods/1.7.10/"
+		},
+		{
+			"name": "Forgotten Relics",
+			"type": "curseforge",
+			"projectid": "313427",
+			"side": "both"
+		},
+		{
+			"name": "Gadomancy",
+			"type": "github",
+			"projectid": "GTNewHorizons/Gadomancy",
+			"side": "both"
 		},
 		{
 			"name": "Gregtech 6",
@@ -320,9 +386,21 @@
 			"side": "both"
 		},
 		{
+			"name": "Hardcore Ender Expansion",
+			"type": "github",
+			"projectid": "GTNewHorizons/Hardcore-Ender-Expansion",
+			"side": "both"
+		},
+		{
 			"name": "HodgePodge",
 			"type": "modrinth",
 			"projectid": "6QQe8Ldy",
+			"side": "both"
+		},
+		{
+			"name": "Infernal Mobs",
+			"type": "github",
+			"projectid": "GTNewHorizons/Infernal-Mobs",
 			"side": "both"
 		},
 		{
@@ -332,15 +410,27 @@
 			"side": "both"
 		},
 		{
+			"name": "Inpure Core",
+			"type": "github",
+			"projectid": "GTNewHorizons/INpureCore",
+			"side": "both"
+		},
+		{
 			"name": "Inventory Tweaks",
-			"type": "url",
-			"projectid": "http://jenkins.usrv.eu:8081/nexus/content/groups/public/com/github/GTNewHorizons/inventory-tweaks/1.5.16/inventory-tweaks-1.5.16.jar",
+			"type": "github",
+			"projectid": "GTNewHorizons/inventory-tweaks",
 			"side": "both"
 		},
 		{
 			"name": "It's the Little Things",
-			"type": "url",
-			"projectid": "http://jenkins.usrv.eu:8081/nexus/content/groups/public/com/github/GTNewHorizons/inventory-tweaks/1.5.16/inventory-tweaks-1.5.16.jar",
+			"type": "github",
+			"projectid": "GTNewHorizons/itlt",
+			"side": "both"
+		},
+		{
+			"name": "Lag Goggles: Legacy",
+			"type": "modrinth",
+			"projectid": "yNnilXec",
 			"side": "both"
 		},
 		{
@@ -362,6 +452,12 @@
 			"side": "both"
 		},
 		{
+			"name": "Magic Bees",
+			"type": "github",
+			"projectid": "KryptonCaptain/MagicBees",
+			"side": "both"
+		},
+		{
 			"name": "McJtyLib",
 			"type": "modrinth",
 			"projectid": "1Zu0uTEE",
@@ -371,6 +467,24 @@
 			"name": "Mekanism Community Edition: Core",
 			"type": "modrinth",
 			"projectid": "toGHjw6t",
+			"side": "both"
+		},
+		{
+			"name": "Modern Splash",
+			"type": "modrinth",
+			"projectid": "WQC4Wtzw",
+			"side": "both"
+		},
+		{
+			"name": "Mooz",
+			"type": "github",
+			"projectid": "embeddedt/Mooz",
+			"side": "both"
+		},
+		{
+			"name": "Mouse Tweaks",
+			"type": "github",
+			"projectid": "GTNewHorizons/MouseTweaks",
 			"side": "both"
 		},
 		{
@@ -392,10 +506,64 @@
 			"side": "both"
 		},
 		{
+			"name": "Not Enough Energistics",
+			"type": "github",
+			"projectid": "GTNewHorizons/NotEnoughEnergistics",
+			"side": "both"
+		},
+		{
+			"name": "Not Enough Items: Integration",
+			"type": "github",
+			"projectid": "GTNewHorizons/NEI-Integration",
+			"side": "both"
+		},
+		{
+			"name": "Not Enough Items: Addons",
+			"type": "github",
+			"projectid": "GTNewHorizons/neiaddons",
+			"side": "both"
+		},
+		{
+			"name": "Not Enough Verbosity",
+			"type": "github",
+			"projectid": "LegacyModdingMC/NotEnoughVerbosity",
+			"side": "both"
+		},
+		{
 			"name": "Not Fine",
 			"type": "github",
 			"projectid": "jss2a98aj/NotFine",
 			"side": "client"
+		},
+		{
+			"name": "Nutrition",
+			"type": "github",
+			"projectid": "GTNewHorizons/Nutrition",
+			"side": "both"
+		},
+		{
+			"name": "Open Blocks",
+			"type": "github",
+			"projectid": "GTNewHorizons/OpenBlocks",
+			"side": "both"
+		},
+		{
+			"name": "Open Computers",
+			"type": "github",
+			"projectid": "GTNewHorizons/OpenComputers",
+			"side": "both"
+		},
+		{
+			"name": "Open Mods Library",
+			"type": "github",
+			"projectid": "GTNewHorizons/OpenModsLib",
+			"side": "both"
+		},
+		{
+			"name": "Open Modular Turrets",
+			"type": "github",
+			"projectid": "GTNewHorizons/OpenModularTurrets",
+			"side": "both"
 		},
 		{
 			"name": "Redstone Armory",
@@ -422,15 +590,45 @@
 			"side": "both"
 		},
 		{
+			"name": "Sign Posts",
+			"type": "github",
+			"projectid": "LegacyModdingMC/SignPosts",
+			"side": "both"
+		},
+		{
 			"name": "Simply Jetpacks",
 			"type": "curseforge",
 			"projectid": "79325",
 			"side": "both"
 		},
 		{
+			"name": "Special AI",
+			"type": "github",
+			"projectid": "GTNewHorizons/SpecialAI",
+			"side": "both"
+		},
+		{
+			"name": "Special Mobs",
+			"type": "github",
+			"projectid": "GTNewHorizons/SpecialMobs",
+			"side": "both"
+		},
+		{
 			"name": "Spice Of Life",
 			"type": "modrinth",
 			"projectid": "AbPBTO0Y",
+			"side": "both"
+		},
+		{
+			"name": "Squidless",
+			"type": "curseforge",
+			"projectid": "226115",
+			"side": "both"
+		},
+		{
+			"name": "Steve's Addons",
+			"type": "github",
+			"projectid": "GTNewHorizons/StevesAddons",
 			"side": "both"
 		},
 		{
@@ -446,9 +644,99 @@
 			"side": "both"
 		},
 		{
+			"name": "Super Sound Muffler: Legacy",
+			"type": "modrinth",
+			"projectid": "vwTF02wB",
+			"side": "both"
+		},
+		{
+			"name": "Tainted Magic",
+			"type": "github",
+			"projectid": "GTNewHorizons/Tainted-Magic",
+			"side": "both"
+		},
+		{
+			"name": "TileEntity Reset Fix",
+			"type": "modrinth",
+			"projectid": "cKitwCSu",
+			"side": "both"
+		},
+		{
 			"name": "Tinker's Construct",
 			"type": "github",
 			"projectid": "GTNewHorizons/TinkersConstruct",
+			"side": "both"
+		},
+		{
+			"name": "Tinker's Mechworks",
+			"type": "github",
+			"projectid": "GTNewHorizons/TinkersMechworks",
+			"side": "both"
+		},
+		{
+			"name": "Thaumcraft",
+			"type": "curseforge",
+			"projectid": "223628",
+			"side": "both"
+		},
+		{
+			"name": "Thaumcraft 4 Tweaks",
+			"type": "modrinth",
+			"projectid": "J0HWRWq5",
+			"side": "both"
+		},
+		{
+			"name": "Thaumcraft Gates",
+			"type": "curseforge",
+			"projectid": "221897",
+			"side": "both"
+		},
+		{
+			"name": "Thaumcraft Mob Aspects",
+			"type": "github",
+			"projectid": "GTNewHorizons/ThaumcraftMobAspects",
+			"side": "both"
+		},
+		{
+			"name": "Thaumcraft Node Tracker",
+			"type": "github",
+			"projectid": "GTNewHorizons/TCNodeTracker",
+			"side": "both"
+		},
+		{
+			"name": "Thaumic Bases",
+			"type": "github",
+			"projectid": "KryptonCaptain/ThaumicBases",
+			"side": "both"
+		},
+		{
+			"name": "Thaumic Energistics",
+			"type": "github",
+			"projectid": "GTNewHorizons/ThaumicEnergistics",
+			"side": "both"
+		},
+		{
+			"name": "Thaumic Exploration",
+			"type": "github",
+			"projectid": "GTNewHorizons/Thaumic_Exploration",
+			"side": "both"
+		},
+		{
+			"name": "Thaumic Insurgence",
+			"type": "modrinth",
+			"projectid": "PCEjYHWr",
+			"side": "both"
+		},
+		{
+			"name": "Thaumic Inventory Scanning",
+			"type": "github",
+			"projectid": "GTNewHorizons/ThaumicInventoryScanning",
+			"side": "both"
+		},
+		{
+			"name": "Thaumic Tinkerer",
+			"type": "github",
+			"projectid": "KryptonCaptain/ThaumicTinkerer",
 			"side": "both"
 		},
 		{
@@ -476,6 +764,12 @@
 			"side": "both"
 		},
 		{
+			"name": "Twilight Forest",
+			"type": "github",
+			"projectid": "GTNewHorizons/twilightforest",
+			"side": "both"
+		},
+		{
 			"name": "Universal Singularities",
 			"type": "curseforge",
 			"projectid": "252200",
@@ -494,9 +788,63 @@
 			"side": "both"
 		},
 		{
+			"name": "Warp Theory",
+			"type": "github",
+			"projectid": "GTNewHorizons/WarpTheory",
+			"side": "both"
+		},
+		{
+			"name": "Witchery",
+			"type": "curseforge",
+			"projectid": "69673",
+			"side": "both"
+		},
+		{
+			"name": "WitcheryPatch",
+			"type": "curseforge",
+			"projectid": "253015",
+			"side": "both"
+		},
+		{
+			"name": "Witchery Extras",
+			"type": "github",
+			"projectid": "GTNewHorizons/WitcheryExtras",
+			"side": "both"
+		},
+		{
 			"name": "What am i Looking At",
 			"type": "github",
 			"projectid": "GTNewHorizons/waila",
+			"side": "both"
+		},
+		{
+			"name": "What am i Looking At: Harvestability",
+			"type": "github",
+			"projectid": "GTNewHorizons/WailaHarvestability",
+			"side": "both"
+		},
+		{
+			"name": "What am i Looking At: Plugins",
+			"type": "github",
+			"projectid": "GTNewHorizons/WAILAPlugins",
+			"side": "both"
+		},
+		{
+			"name": "What are we Looking At",
+			"type": "github",
+			"projectid": "GTNewHorizons/WAWLA",
+			"side": "both"
+		},
+		{
+			"name": "Wireless Crafting Terminal",
+			"type": "github",
+			"projectid": "GTNewHorizons/WirelessCraftingTerminal",
+			"side": "both"
+		},
+		{
+			"name": "Wireless Redstone: ChickenBonesEdition",
+			"type": "github",
+			"projectid": "GTNewHorizons/WirelessRedstone-CBE",
 			"side": "both"
 		}
 	]
