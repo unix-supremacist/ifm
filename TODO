@@ -1,5 +1,4 @@
-resolve EFR and village names duplicate blocks
-resolve EFR and gregtech duplicate blocks
+resolve EFR, village names, chisel and gregtech duplicate blocks
 resolve duplicate circuits
 enable gt6 highways
 decide what thaumcraft addons to use and add them all
@@ -12,3 +11,6 @@ add some compat between gt6 and tinkers
 add enviromine galaxy odyssey
 add netherite as a tinkers material
 look for gt6 addons
+use signalum and enderium circuits to balance thermal
+possibly use gt6 bc circuits to balance buildcraft, forestry, etc
+write a gt6 addon for ender io compat adding higher tier flux machines, ender io material circuits, etc
